@@ -157,5 +157,5 @@ Com esses passos é possivel que já esteja tudo funcionando.
 
 <h2 align="center"> 📜 Detalhamento da constroção do app<h2>
 
-<a href="">Segue o lingue para pagina dedicada a detalhamento</a>
+<a href="detalhamento do projeto.md">Segue o lingue para pagina dedicada a detalhamento</a>
 
