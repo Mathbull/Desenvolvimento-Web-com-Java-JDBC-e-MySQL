@@ -1,5 +1,7 @@
 <h1 align="center">✨ Trabalho Prático de Desenvolvimento Web com Java, JDBC e MySQL ✨</h1>
 
+<img src="imagens/clinica-web-java.gif">
+
 # 🎯 Objetivo
 O objetivo deste trabalho é aplicar os conceitos de desenvolvimento web utilizando Java, Servlets, DTOs, JDBC e MySQL para a construção de uma aplicação completa que permita a criação, leitura, atualização e exclusão de registros em um banco de dados relacional. A aplicação também deverá utilizar JSP ou JSTL para a camada de apresentação.
 
