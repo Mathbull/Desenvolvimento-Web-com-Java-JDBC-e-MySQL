@@ -13,6 +13,12 @@
  
 </p>
 
+<p align="center">
+  <a href="#dart-objetivo">Objetivo</a> &#xa0; | &#xa0; 
+  <a href="#tooth-projeto">Licença</a> &#xa0; | &#xa0;
+  <a href="https://github.com/isabellazramos" target="_blank">Autor</a>
+</p>
+
 # 🎯 Objetivo
 O objetivo deste trabalho é aplicar os conceitos de desenvolvimento web utilizando Java, Servlets, DTOs, JDBC e MySQL para a construção de uma aplicação completa que permita a criação, leitura, atualização e exclusão de registros em um banco de dados relacional. A aplicação também deverá utilizar JSP ou JSTL para a camada de apresentação.
 
