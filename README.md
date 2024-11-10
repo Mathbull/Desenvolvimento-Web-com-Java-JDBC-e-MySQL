@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="#objetivo">Objetivo</a> &#xa0; | &#xa0; 
-  <a href="#projeto-realizado---gerenciamento-de-clinica-odontologica">Projeto</a> &#xa0; | &#xa0;
+  <a href="#projeto">Projeto</a> &#xa0; | &#xa0;
   <a href="#funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
   <a href="#manual">Manual</a> &#xa0; | &#xa0;
   <a href="#detalhamento">Detalhamento</a> &#xa0; | &#xa0;
@@ -25,8 +25,9 @@
 # 🎯Objetivo
 O objetivo deste trabalho é aplicar os conceitos de desenvolvimento web utilizando Java, Servlets, DTOs, JDBC e MySQL para a construção de uma aplicação completa que permita a criação, leitura, atualização e exclusão de registros em um banco de dados relacional. A aplicação também deverá utilizar JSP ou JSTL para a camada de apresentação.
 
-## 🦷Projeto Realizado - Gerenciamento de Clínica Odontológica
+## 🦷Projeto
 
+### Gerenciamento de Clínica Odontológica
 
 Foi realizada uma aplicação web para uma clínica odontológica, com o objetivo de auxiliar no gerenciamento de entradas e saídas de pacientes e médicos, bem como no agendamento de consultas.
 
