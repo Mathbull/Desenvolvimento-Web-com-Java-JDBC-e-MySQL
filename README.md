@@ -1,6 +1,17 @@
 <h1 align="center">✨ Trabalho Prático de Desenvolvimento Web com Java, JDBC e MySQL ✨</h1>
 
-<img src="imagens/clinica-web-java.gif">
+<div align="center">
+	<img src="imagens/clinica-web-java.gif" width="600" >
+</div>
+
+<p align="center">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/Mathbull/Desenvolvimento-Web-com-Java-JDBC-e-MySQL?color=56BEB8">
+
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/Mathbull/Desenvolvimento-Web-com-Java-JDBC-e-MySQL?color=56BEB8">
+
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/Mathbull/Desenvolvimento-Web-com-Java-JDBC-e-MySQL?color=56BEB8">
+ 
+</p>
 
 # 🎯 Objetivo
 O objetivo deste trabalho é aplicar os conceitos de desenvolvimento web utilizando Java, Servlets, DTOs, JDBC e MySQL para a construção de uma aplicação completa que permita a criação, leitura, atualização e exclusão de registros em um banco de dados relacional. A aplicação também deverá utilizar JSP ou JSTL para a camada de apresentação.
@@ -157,7 +168,14 @@ Cole os arquivos do projeto no workspace do Eclipse, configure o servidor e exec
 Com esses passos é possivel que já esteja tudo funcionando.
 
 
-<h2 align="center"> 📜 Detalhamento da constroção do app<h2>
+### 📜 Detalhamento da constroção do app
 
-<a href="detalhamento do projeto.md">Segue o lingue para pagina dedicada a detalhamento</a>
+Confira o seguinte <a href="detalhamento do projeto.md">link</a> para um detalhamento completo para o funcionamento completo da aplicação. O guia visa abranger desde o back-end até o front-end.
+
+### :memo: Licença
+
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+<p align="center">Feito com 🫀 por <a href="https://github.com/Mathbull" target="_blank">Matheus Santos</a></p>
+
 
