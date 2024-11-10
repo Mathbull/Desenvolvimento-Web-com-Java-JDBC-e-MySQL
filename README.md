@@ -16,9 +16,10 @@
 <p align="center">
   <a href="#objetivo">Objetivo</a> &#xa0; | &#xa0; 
   <a href="#%EF%B8%8Fprojeto">Projeto</a> &#xa0; | &#xa0;
-  <a href="#funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
-  <a href="#manual">Manual</a> &#xa0; | &#xa0;
-  <a href="#detalhamento">Detalhamento</a> &#xa0; | &#xa0;
+  <a href="#%EF%B8%8Ffuncionalidades">Funcionalidades</a> &#xa0; | &#xa0;
+  <a href="#-manual-de-execução">Manual</a> &#xa0; | &#xa0;
+  <a href="#-detalhamento-da-constroção-do-app">Detalhamento</a> &#xa0; | &#xa0;
+  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0; 
   <a href="https://github.com/Mathbull" target="_blank">Autor</a>
 </p>
 
