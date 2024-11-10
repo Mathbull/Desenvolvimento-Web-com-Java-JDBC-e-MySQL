@@ -14,9 +14,12 @@
 </p>
 
 <p align="center">
-  <a href="#dart-objetivo">Objetivo</a> &#xa0; | &#xa0; 
-  <a href="#tooth-projeto">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/isabellazramos" target="_blank">Autor</a>
+  <a href="#objetivo">Objetivo</a> &#xa0; | &#xa0; 
+  <a href="#projeto">Projeto</a> &#xa0; | &#xa0;
+  <a href="#funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
+  <a href="#manual">Manual</a> &#xa0; | &#xa0;
+  <a href="#detalhamento">Detalhamento</a> &#xa0; | &#xa0;
+  <a href="https://github.com/Mathbull" target="_blank">Autor</a>
 </p>
 
 # 🎯 Objetivo
