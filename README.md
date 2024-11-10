@@ -1,4 +1,4 @@
-<h1 align="center">✨ Trabalho Prático de Desenvolvimento Web com Java, JDBC e MySQL ✨</h1>
+<h1 align="center" id="top">✨ Trabalho Prático de Desenvolvimento Web com Java, JDBC e MySQL ✨</h1>
 
 <div align="center">
 	<img src="imagens/clinica-web-java.gif" width="600" >
@@ -190,3 +190,4 @@ Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais
 <p align="center">Feito com 🫀 por <a href="https://github.com/Mathbull" target="_blank">Matheus Santos</a></p>
 
 
+<a href="#top">Voltar para o topo</a>
