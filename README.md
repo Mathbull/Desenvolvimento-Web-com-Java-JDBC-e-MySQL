@@ -26,7 +26,6 @@
 O objetivo deste trabalho é aplicar os conceitos de desenvolvimento web utilizando Java, Servlets, DTOs, JDBC e MySQL para a construção de uma aplicação completa que permita a criação, leitura, atualização e exclusão de registros em um banco de dados relacional. A aplicação também deverá utilizar JSP ou JSTL para a camada de apresentação.
 
 ## 📽️Projeto
-
 ### 🦷Gerenciamento de Clínica Odontológica
 
 Foi realizada uma aplicação web para uma clínica odontológica, com o objetivo de auxiliar no gerenciamento de entradas e saídas de pacientes e médicos, bem como no agendamento de consultas.
